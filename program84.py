@@ -1,1 +1,1 @@
-print ord(raw_input())
+print ascii(raw_input())
