@@ -1,1 +1,2 @@
-print ascii(raw_input())
+p=input()
+print(ord(p))
